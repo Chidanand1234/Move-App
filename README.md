@@ -1,2 +1,2 @@
-# Move-App
+# Movie-App
 Javascript based Project
